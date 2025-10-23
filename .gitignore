@@ -1,0 +1,4 @@
+This is created to keep what is mentiond here from being tracked by git in the source code,
+like APIs private keys for example or some dependencies.
+
+Git will look at this and filter out anything that matches the file path or pattern mentioned here.
