@@ -1,6 +1,7 @@
 #######################################################################################################
 # Python OOP Project : Blue Prince Game
 #
+# Sorbonne University
 # M1 ROB - 2025/2026
 #
 # Project Description :
